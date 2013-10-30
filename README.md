@@ -1,0 +1,2 @@
+com.dbfconsult.logging.configuration
+====================================
