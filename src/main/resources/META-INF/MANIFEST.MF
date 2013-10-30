@@ -1,0 +1,6 @@
+Bundle-Name: com.dbfconsult.logging.configuration
+Bundle-SymbolicName: com.dbfconsult.logging.configuration
+Bundle-Description: A fragment to configure logback
+Bundle-ManifestVersion: 2
+Bundle-Version: 1.0.0
+Fragment-Host: ch.qos.logback.classic
